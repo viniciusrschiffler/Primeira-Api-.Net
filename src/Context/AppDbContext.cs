@@ -1,4 +1,5 @@
 using Microsoft.EntityFrameworkCore;
+using Profile.Models;
 
 namespace Profile.Context
 {

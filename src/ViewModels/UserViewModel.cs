@@ -1,3 +1,5 @@
+using Profile.Models;
+
 namespace Profile.ViewModels
 {
     public class UserViewModel 
